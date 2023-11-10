@@ -1,8 +1,18 @@
 .poem {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 100;
-    color:rgb(28, 22, 22);
+    color: white;
     padding: 40px;
+}
+
+body {
+    height: 100vh;
+    position: relative;
+    background-image: url('https://i.postimg.cc/3NTVk28z/pexels-kai-pilger-1341279.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
 }
 
 h1 {
@@ -12,6 +22,6 @@ h1 {
 
 .radahn {
     text-decoration: wavy;
-    color: red;
+    color: white;
 }
 
