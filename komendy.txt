@@ -1,0 +1,37 @@
+Instalacja wynik: 
+Anna@LAPTOP-FM7B5AMA MINGW64 ~/Desktop/zadanie-1/learning-git-2 (master)
+$ npm install --save-dev html-validate
+
+added 63 packages, and audited 217 packages in 13s
+
+20 packages are looking for funding
+  run `npm fund` for details
+
+3 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+Anna@LAPTOP-FM7B5AMA MINGW64 ~/Desktop/zadanie-1/learning-git-2 (master)
+$ touch komendy.txt
+
+Spawdzenie poprawności html wynik:
+nna@LAPTOP-FM7B5AMA MINGW64 ~/Desktop/zadanie-1/learning-git-2 (master)
+$ touch .htmlvalidate.json
+
+Anna@LAPTOP-FM7B5AMA MINGW64 ~/Desktop/zadanie-1/learning-git-2 (master)
+$ npm exec html-validate index.html
+
+C:\Users\Anna\Desktop\zadanie-1\learning-git-2\index.html
+  2:17  error  Trailing whitespace  no-trailing-whitespace
+
+✖ 1 problem (1 error, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/no-trailing-whitespace.html
+
+
+Anna@LAPTOP-FM7B5AMA MINGW64 ~/Desktop/zadanie-1/learning-git-2 (master)
+$
