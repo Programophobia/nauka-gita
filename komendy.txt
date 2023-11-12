@@ -1,0 +1,19 @@
+Anna@LAPTOP-FM7B5AMA MINGW64 ~/Desktop/zadanie-1/learning-git-2 (master)
+$ npm install --save-dev html-validate
+
+added 63 packages, and audited 217 packages in 10s
+
+
+
+
+Anna@LAPTOP-FM7B5AMA MINGW64 ~/Desktop/zadanie-1/learning-git-2 (master)
+$ npm exec html-validate *.html
+
+C:\Users\Anna\Desktop\zadanie-1\learning-git-2\index.html
+   2:17  error  Trailing whitespace  no-trailing-whitespace
+  16:47  error  Trailing whitespace  no-trailing-whitespace
+
+✖ 2 problems (2 errors, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/no-trailing-whitespace.html
