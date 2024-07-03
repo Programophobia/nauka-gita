@@ -1,4 +1,4 @@
-Anna@LAPTOP-FM7B5AMA MINGW64 ~/Desktop/zadanie-1/learning-git-2 (master)
+Anna@LAPTOP ~/Desktop/zadanie-1/learning-git-2 (master)
 $ npm install --save-dev html-validate
 
 added 63 packages, and audited 217 packages in 10s
@@ -6,7 +6,7 @@ added 63 packages, and audited 217 packages in 10s
 
 
 
-Anna@LAPTOP-FM7B5AMA MINGW64 ~/Desktop/zadanie-1/learning-git-2 (master)
+Anna@LAPTOP ~/Desktop/zadanie-1/learning-git-2 (master)
 $ npm exec html-validate *.html
 
 C:\Users\Anna\Desktop\zadanie-1\learning-git-2\index.html
