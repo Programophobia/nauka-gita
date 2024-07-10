@@ -10,23 +10,6 @@ canvas {
   width:100vw;
   height:100vh;
 }
-body {
-    height: 100vh;
-    position: relative;
-    background-image: url('https://i.postimg.cc/3NTVk28z/pexels-kai-pilger-1341279.jpg');
-    background-position: center center;
-    background-size: cover;
-    background-attachment: fixed;
-    color: white;
-}
 
-h1 {
-    font-style: italic;
-    color: rgb(15, 14, 14)(79, 31, 31);
-}
 
-.radahn {
-    text-decoration: wavy;
-    color: white;
-}
 
